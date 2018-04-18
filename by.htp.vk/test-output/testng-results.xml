@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27666" started-at="2018-04-18T09:13:19Z" finished-at="2018-04-18T09:13:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27666" started-at="2018-04-18T09:13:19Z" finished-at="2018-04-18T09:13:46Z">
+      <class name="by.htp.vk.tests.WallPostTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:by.htp.vk.tests.WallPostTest@6767c1fc]" name="beforeClass" is-config="true" duration-ms="5633" started-at="2018-04-18T12:13:19Z" finished-at="2018-04-18T12:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="A_createWallPostTest()[pri:0, instance:by.htp.vk.tests.WallPostTest@6767c1fc]" name="A_createWallPostTest" duration-ms="15636" started-at="2018-04-18T12:13:24Z" finished-at="2018-04-18T12:13:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A_createWallPostTest -->
+        <test-method status="PASS" signature="B_likeWallPostTest()[pri:0, instance:by.htp.vk.tests.WallPostTest@6767c1fc]" name="B_likeWallPostTest" duration-ms="1024" started-at="2018-04-18T12:13:40Z" finished-at="2018-04-18T12:13:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B_likeWallPostTest -->
+        <test-method status="PASS" signature="C_editWallPostTest()[pri:0, instance:by.htp.vk.tests.WallPostTest@6767c1fc]" name="C_editWallPostTest" duration-ms="846" started-at="2018-04-18T12:13:41Z" finished-at="2018-04-18T12:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C_editWallPostTest -->
+        <test-method status="PASS" signature="D_addCommentWallPostTest()[pri:0, instance:by.htp.vk.tests.WallPostTest@6767c1fc]" name="D_addCommentWallPostTest" duration-ms="1453" started-at="2018-04-18T12:13:42Z" finished-at="2018-04-18T12:13:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D_addCommentWallPostTest -->
+        <test-method status="PASS" signature="E_deleteWallPostTest()[pri:0, instance:by.htp.vk.tests.WallPostTest@6767c1fc]" name="E_deleteWallPostTest" duration-ms="725" started-at="2018-04-18T12:13:43Z" finished-at="2018-04-18T12:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E_deleteWallPostTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:by.htp.vk.tests.WallPostTest@6767c1fc]" name="afterClass" is-config="true" duration-ms="2325" started-at="2018-04-18T12:13:44Z" finished-at="2018-04-18T12:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- by.htp.vk.tests.WallPostTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
